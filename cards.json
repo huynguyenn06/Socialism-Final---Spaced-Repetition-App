@@ -1,0 +1,402 @@
+[
+  {
+    "id": "formula-universal",
+    "type": "essay_formula",
+    "prompt": "What five-part structure should almost every exam essay follow?",
+    "answer": "1. Define the topic in one clear sentence.\n2. Present 3-4 main points in logical order.\n3. Explain each point with one example or implication.\n4. Connect the answer back to socialism, democracy, development, or Vietnam when relevant.\n5. End with a balanced conclusion.",
+    "source": "Universal Exam Formula",
+    "tags": ["essay", "formula", "exam"]
+  },
+  {
+    "id": "q1-essay",
+    "type": "essay_prompt",
+    "prompt": "Rebuild the essay for Question 1: What is politics, what is social change, and how are they related?",
+    "answer": "Use this structure:\n1. Define politics as the organization and exercise of power.\n2. Define social change as transformation in society.\n3. Explain politics as a cause and instrument of change.\n4. Explain social change as a pressure on politics.\n5. Conclude that stable development requires politics to respond to social reality.\n\nMemory hook: P-S-C: Power, Society, Connection.",
+    "source": "Question 1",
+    "tags": ["politics", "social-change", "essay"]
+  },
+  {
+    "id": "q1-core",
+    "type": "core_idea",
+    "prompt": "What is the core idea of Question 1?",
+    "answer": "Politics is the activity of organizing, using, and controlling power in society, especially state power and class power. Social change is the transformation of social structures, institutions, values, relations, and living conditions. Their relationship is two-way: politics directs social change, while social change creates new political demands.",
+    "source": "Question 1",
+    "tags": ["politics", "social-change", "core"]
+  },
+  {
+    "id": "q1-hook",
+    "type": "memory_hook",
+    "prompt": "Recall the P-S-C memory hook for politics and social change.",
+    "answer": "- Power: politics is about power, interests, and authority.\n- Society: social change transforms economy, class, culture, and institutions.\n- Connection: politics can lead, regulate, accelerate, or resist social change.",
+    "source": "Question 1",
+    "tags": ["hook", "politics", "social-change"]
+  },
+  {
+    "id": "q1-concept-dialectical",
+    "type": "key_concept",
+    "prompt": "Why is the relationship between politics and social change called dialectical?",
+    "answer": "Because politics and social change influence each other. Political leadership, laws, and state institutions can guide or slow social change; meanwhile economic, technological, class, and cultural changes create new demands that politics must answer.",
+    "source": "Question 1",
+    "tags": ["dialectical", "politics", "social-change"]
+  },
+  {
+    "id": "q2-essay",
+    "type": "essay_prompt",
+    "prompt": "Rebuild the essay for Question 2: What are the core contents of The Communist Manifesto?",
+    "answer": "Use this structure:\n1. Introduce the Manifesto as a foundational Marxist text.\n2. Explain class struggle as the law of social history.\n3. Describe capitalism and the bourgeois-proletarian contradiction.\n4. Explain the mission of the proletariat and communist goals.\n5. Conclude with the text's lasting significance for scientific socialism.\n\nMemory hook: C-P-R-I: Class struggle, Proletariat, Revolution, Internationalism.",
+    "source": "Question 2",
+    "tags": ["manifesto", "marx", "engels", "essay"]
+  },
+  {
+    "id": "q2-core",
+    "type": "core_idea",
+    "prompt": "What is the core idea of The Communist Manifesto section?",
+    "answer": "The Communist Manifesto explains historical development through class struggle, identifies capitalism as a system based on bourgeois exploitation of the proletariat, argues that the proletariat is the revolutionary class, and calls for the abolition of capitalist private ownership of the means of production.",
+    "source": "Question 2",
+    "tags": ["manifesto", "class-struggle", "capitalism"]
+  },
+  {
+    "id": "q2-hook",
+    "type": "memory_hook",
+    "prompt": "Recall the C-P-R-I memory hook for The Communist Manifesto.",
+    "answer": "- Class struggle drives history.\n- Proletariat is the revolutionary class.\n- Revolution ends capitalist exploitation.\n- Internationalism unites workers beyond national borders.",
+    "source": "Question 2",
+    "tags": ["hook", "manifesto", "internationalism"]
+  },
+  {
+    "id": "q2-concept-classes",
+    "type": "key_concept",
+    "prompt": "How does The Communist Manifesto define the main contradiction of capitalism?",
+    "answer": "Modern capitalist society is divided mainly into the bourgeoisie, which owns capital and the means of production, and the proletariat, which owns no means of production and must sell labor power to survive. This creates exploitation, inequality, crises, and alienation.",
+    "source": "Question 2",
+    "tags": ["bourgeoisie", "proletariat", "capitalism"]
+  },
+  {
+    "id": "q2-concept-internationalism",
+    "type": "key_concept",
+    "prompt": "Why does The Communist Manifesto emphasize internationalism?",
+    "answer": "Capitalism becomes global, so workers' struggles cannot remain purely national. Internationalism means workers unite across national boundaries against exploitation and for social emancipation.",
+    "source": "Question 2",
+    "tags": ["internationalism", "workers", "manifesto"]
+  },
+  {
+    "id": "q3-essay",
+    "type": "essay_prompt",
+    "prompt": "Rebuild the essay for Question 3: What were Marx and Engels' main roles and contributions?",
+    "answer": "Use this structure:\n1. Present Marx and Engels as founders of scientific socialism.\n2. Explain historical materialism and class struggle.\n3. Explain the critique of capitalism and surplus value.\n4. Explain the historical mission of the working class.\n5. Conclude with their influence on revolutionary movements.\n\nMemory hook: M-E-S-S: Materialist history, Exploitation, Scientific socialism, Strategy.",
+    "source": "Question 3",
+    "tags": ["marx", "engels", "essay"]
+  },
+  {
+    "id": "q3-core",
+    "type": "core_idea",
+    "prompt": "What is the core idea of Marx and Engels' contribution to scientific socialism?",
+    "answer": "Marx and Engels transformed socialism from utopian hopes into a scientific theory based on historical materialism, surplus value, class struggle, and the revolutionary role of the proletariat. They provided the theoretical foundation for the workers' movement and communist parties.",
+    "source": "Question 3",
+    "tags": ["marx", "engels", "scientific-socialism"]
+  },
+  {
+    "id": "q3-hook",
+    "type": "memory_hook",
+    "prompt": "Recall the M-E-S-S memory hook for Marx and Engels.",
+    "answer": "- Materialist conception of history.\n- Exploitation explained through surplus value.\n- Scientific socialism instead of utopian socialism.\n- Strategy for proletarian revolution and organization.",
+    "source": "Question 3",
+    "tags": ["hook", "marx", "engels"]
+  },
+  {
+    "id": "q3-concept-historical-materialism",
+    "type": "key_concept",
+    "prompt": "What is historical materialism in the Marx and Engels answer?",
+    "answer": "Historical materialism argues that the mode of production is the foundation of social life. Changes in productive forces and relations of production lead to changes in politics, law, culture, ideology, and class struggle.",
+    "source": "Question 3",
+    "tags": ["historical-materialism", "productive-forces", "class-struggle"]
+  },
+  {
+    "id": "q3-concept-surplus-value",
+    "type": "key_concept",
+    "prompt": "How does surplus value explain capitalist exploitation?",
+    "answer": "Workers create more value than they receive in wages. The capitalist appropriates this surplus, so exploitation is explained scientifically through the structure of capitalist production, not only through moral criticism.",
+    "source": "Question 3",
+    "tags": ["surplus-value", "exploitation", "capitalism"]
+  },
+  {
+    "id": "q4-essay",
+    "type": "essay_prompt",
+    "prompt": "Rebuild the essay for Question 4: What were Lenin's main roles and contributions?",
+    "answer": "Use this structure:\n1. Introduce Lenin as the developer of Marxism in a new era.\n2. Explain his theory of imperialism.\n3. Explain his theory of the party and revolution.\n4. Explain the October Revolution and proletarian state.\n5. Explain lessons from socialist construction and the NEP.\n\nMemory hook: I-P-R-S: Imperialism, Party, Revolution, Socialist construction.",
+    "source": "Question 4",
+    "tags": ["lenin", "essay", "imperialism"]
+  },
+  {
+    "id": "q4-core",
+    "type": "core_idea",
+    "prompt": "What is the core idea of Lenin's contribution to scientific socialism?",
+    "answer": "Lenin developed Marxism in the age of imperialism, built the theory of the revolutionary party, led the October Revolution, defended the dictatorship of the proletariat, and explored socialist construction in a backward country through policies such as the New Economic Policy.",
+    "source": "Question 4",
+    "tags": ["lenin", "scientific-socialism", "october-revolution"]
+  },
+  {
+    "id": "q4-hook",
+    "type": "memory_hook",
+    "prompt": "Recall the I-P-R-S memory hook for Lenin.",
+    "answer": "- Imperialism as the highest stage of capitalism.\n- Party as disciplined vanguard.\n- Revolution can win at capitalism's weakest link.\n- Socialist construction requires flexible policy.",
+    "source": "Question 4",
+    "tags": ["hook", "lenin", "party"]
+  },
+  {
+    "id": "q4-concept-imperialism",
+    "type": "key_concept",
+    "prompt": "What did Lenin mean by imperialism as the highest stage of capitalism?",
+    "answer": "Lenin argued that capitalism had developed into monopoly capitalism, marked by finance capital, export of capital, colonial division of the world, and rivalry among imperialist powers. This helped explain war and colonial oppression.",
+    "source": "Question 4",
+    "tags": ["imperialism", "monopoly-capitalism", "lenin"]
+  },
+  {
+    "id": "q4-concept-vanguard",
+    "type": "key_concept",
+    "prompt": "Why did Lenin emphasize the revolutionary vanguard party?",
+    "answer": "Lenin argued that the working class needed a disciplined party with Marxist theory, close ties to the masses, and strong organization. Without it, spontaneous struggle could remain limited to economic demands.",
+    "source": "Question 4",
+    "tags": ["vanguard-party", "lenin", "revolution"]
+  },
+  {
+    "id": "q4-concept-nep",
+    "type": "key_concept",
+    "prompt": "What does the New Economic Policy show about Lenin's approach to socialist construction?",
+    "answer": "The New Economic Policy shows Lenin's flexibility. It used limited market elements to restore production during the transition to socialism, especially in a backward country after revolution and crisis.",
+    "source": "Question 4",
+    "tags": ["nep", "socialist-construction", "lenin"]
+  },
+  {
+    "id": "q5-essay",
+    "type": "essay_prompt",
+    "prompt": "Rebuild the essay for Question 5: Vietnam's achievements, limitations, New Era goals, challenges, and solutions.",
+    "answer": "Use this structure:\n1. State Vietnam's socialist construction as a long transition connected with Doi Moi.\n2. Present achievements.\n3. Present limitations.\n4. Explain New Era goals, focuses, and challenges after the 14th Congress.\n5. Propose practical solutions.\n\nMemory hook: A-L-G-C-S: Achievements, Limitations, Goals, Challenges, Solutions.",
+    "source": "Question 5",
+    "tags": ["vietnam", "doi-moi", "new-era", "essay"]
+  },
+  {
+    "id": "q5-core",
+    "type": "core_idea",
+    "prompt": "What is the core idea of Vietnam's socialist construction and New Era question?",
+    "answer": "Vietnam's socialist construction has achieved national independence, political stability, Doi Moi economic growth, poverty reduction, international integration, and improved living standards. Limitations remain in productivity, corruption, inequality, institutions, environment, and dependence on external markets. The New Era focuses on development, modernization, digital transformation, innovation, green growth, integration, and stronger governance.",
+    "source": "Question 5",
+    "tags": ["vietnam", "achievements", "limitations"]
+  },
+  {
+    "id": "q5-hook",
+    "type": "memory_hook",
+    "prompt": "Recall the A-L-G-C-S memory hook for Vietnam in the New Era.",
+    "answer": "- Achievements: independence, stability, growth, poverty reduction, integration.\n- Limitations: productivity, corruption, inequality, environment, institutions.\n- Goals: 2030 modern industry and high average income; 2045 developed high income.\n- Challenges: global competition, technology, aging, climate, governance.\n- Solutions: innovation, reform, human resources, green growth, rule of law.",
+    "source": "Question 5",
+    "tags": ["hook", "vietnam", "new-era"]
+  },
+  {
+    "id": "q5-concept-achievements",
+    "type": "key_concept",
+    "prompt": "What achievements should you mention for Vietnam's socialist construction?",
+    "answer": "Mention national independence, unity, political and social stability, Doi Moi economic growth, poverty reduction, infrastructure expansion, improved living standards, education and health care development, international integration, and stronger regional and global position.",
+    "source": "Question 5",
+    "tags": ["vietnam", "achievements", "doi-moi"]
+  },
+  {
+    "id": "q5-concept-limitations",
+    "type": "key_concept",
+    "prompt": "What limitations should you mention for Vietnam's socialist construction?",
+    "answer": "Mention low labor productivity, limited scientific-technological capacity, dependence on processing, foreign investment and external markets, corruption, bureaucracy, waste, inequality, environmental pollution, regional gaps, and institutional implementation weaknesses.",
+    "source": "Question 5",
+    "tags": ["vietnam", "limitations", "institutions"]
+  },
+  {
+    "id": "q5-concept-goals",
+    "type": "key_concept",
+    "prompt": "What are Vietnam's 2030 and 2045 New Era development goals?",
+    "answer": "By 2030, Vietnam aims to become a developing country with modern industry and high average income. By 2045, it aims to become a developed socialist country with high income.",
+    "source": "Question 5",
+    "tags": ["vietnam", "2030", "2045", "new-era"]
+  },
+  {
+    "id": "q5-concept-solutions",
+    "type": "key_concept",
+    "prompt": "What practical solutions help Vietnam thrive in the New Era?",
+    "answer": "Improve institutions, fight corruption, invest in science and education, support domestic enterprises, develop green technology, protect the environment, strengthen rule-based governance, and promote people's participation and social consensus.",
+    "source": "Question 5",
+    "tags": ["vietnam", "solutions", "green-growth"]
+  },
+  {
+    "id": "q6-essay",
+    "type": "essay_prompt",
+    "prompt": "Rebuild the essay for Question 6: British political regime and references for Vietnam.",
+    "answer": "Use this structure:\n1. Define Britain as a constitutional monarchy and parliamentary democracy.\n2. Explain Parliament, cabinet, prime minister, parties, courts, and conventions.\n3. Mention strengths: stability, accountability, professional administration.\n4. Identify useful references for Vietnam.\n5. Conclude that Vietnam should adapt, not copy.\n\nMemory hook: M-P-C-L: Monarchy, Parliament, Cabinet, Law.",
+    "source": "Question 6",
+    "tags": ["britain", "political-regime", "essay"]
+  },
+  {
+    "id": "q6-core",
+    "type": "core_idea",
+    "prompt": "What is the core idea of the British political regime answer?",
+    "answer": "The British regime is a constitutional monarchy with parliamentary sovereignty, cabinet government, rule of law, gradual constitutional evolution, strong party competition, and a professional civil service. Vietnam can reference parliamentary accountability, legal culture, administrative professionalism, and policy continuity while adapting them to Vietnam's socialist political system.",
+    "source": "Question 6",
+    "tags": ["britain", "parliament", "rule-of-law"]
+  },
+  {
+    "id": "q6-hook",
+    "type": "memory_hook",
+    "prompt": "Recall the M-P-C-L memory hook for Britain.",
+    "answer": "- Monarchy is symbolic.\n- Parliament is sovereign.\n- Cabinet depends on parliamentary majority.\n- Law and conventions guide politics.",
+    "source": "Question 6",
+    "tags": ["hook", "britain", "parliament"]
+  },
+  {
+    "id": "q6-concept-references",
+    "type": "key_concept",
+    "prompt": "Which British political features can Vietnam selectively reference?",
+    "answer": "Vietnam can study parliamentary questioning, public accountability of officials, professional civil service, policy continuity, respect for legal procedure, transparency, and administrative effectiveness, while adapting them to Vietnam's socialist system.",
+    "source": "Question 6",
+    "tags": ["britain", "vietnam", "references"]
+  },
+  {
+    "id": "q7-essay",
+    "type": "essay_prompt",
+    "prompt": "Rebuild the essay for Question 7: American political regime and references for Vietnam.",
+    "answer": "Use this structure:\n1. Define the United States as a federal presidential republic.\n2. Explain the Constitution, three branches, checks and balances, and federalism.\n3. Explain elections, parties, rights, courts, and civil society.\n4. Identify useful references for Vietnam.\n5. Conclude with selective learning and caution.\n\nMemory hook: F-S-C-R: Federalism, Separation of powers, Checks and balances, Rights.",
+    "source": "Question 7",
+    "tags": ["united-states", "political-regime", "essay"]
+  },
+  {
+    "id": "q7-core",
+    "type": "core_idea",
+    "prompt": "What is the core idea of the American political regime answer?",
+    "answer": "The American regime is a federal presidential republic based on a written constitution, separation of powers, checks and balances, judicial review, elections, civil liberties, and federalism. Vietnam can reference legal limits on power, institutional accountability, judicial professionalism, local autonomy, transparency, and civic participation, while avoiding political polarization and adapting lessons to socialist conditions.",
+    "source": "Question 7",
+    "tags": ["united-states", "checks-and-balances", "federalism"]
+  },
+  {
+    "id": "q7-hook",
+    "type": "memory_hook",
+    "prompt": "Recall the F-S-C-R memory hook for the United States.",
+    "answer": "- Federalism divides national and state power.\n- Separation of powers divides branches.\n- Checks and balances restrain abuse.\n- Rights are protected by constitutional law.",
+    "source": "Question 7",
+    "tags": ["hook", "united-states", "rights"]
+  },
+  {
+    "id": "q7-concept-checks",
+    "type": "key_concept",
+    "prompt": "How do separation of powers and checks and balances work in the American regime?",
+    "answer": "The executive, legislative, and judicial branches are institutionally separate. Each branch has powers, but each can limit the others: Congress passes laws, the President may veto them, and courts may judge whether laws are constitutional.",
+    "source": "Question 7",
+    "tags": ["separation-of-powers", "checks-and-balances", "constitution"]
+  },
+  {
+    "id": "q7-concept-cautions",
+    "type": "key_concept",
+    "prompt": "What cautions should Vietnam remember when referencing the American political regime?",
+    "answer": "The American system also faces polarization, money influence in politics, social inequality, and conflict between branches. Vietnam should selectively learn accountability, rule of law, decentralization, and citizen participation without mechanically copying the model.",
+    "source": "Question 7",
+    "tags": ["united-states", "caution", "vietnam"]
+  },
+  {
+    "id": "q8-essay",
+    "type": "essay_prompt",
+    "prompt": "Rebuild the essay for Question 8: Chinese political regime and references for Vietnam.",
+    "answer": "Use this structure:\n1. Define China as a socialist regime led by the Communist Party.\n2. Explain party leadership, people's congresses, democratic centralism, and state planning.\n3. Explain economic reform and development strategy.\n4. Identify lessons Vietnam can reference.\n5. Conclude with selective adaptation.\n\nMemory hook: P-C-D-R: Party, Congress system, Development planning, Reform.",
+    "source": "Question 8",
+    "tags": ["china", "political-regime", "essay"]
+  },
+  {
+    "id": "q8-core",
+    "type": "core_idea",
+    "prompt": "What is the core idea of the Chinese political regime answer?",
+    "answer": "China is a socialist political regime led by the Communist Party of China, organized through people's congresses, democratic centralism, long-term planning, state capacity, cadre management, market reform under socialist orientation, and strong development strategy. Vietnam can reference China's planning capacity, anti-corruption efforts, cadre training, infrastructure strategy, innovation policy, and gradual reform while avoiding excessive centralization and adapting lessons to Vietnamese conditions.",
+    "source": "Question 8",
+    "tags": ["china", "party-leadership", "planning"]
+  },
+  {
+    "id": "q8-hook",
+    "type": "memory_hook",
+    "prompt": "Recall the P-C-D-R memory hook for China.",
+    "answer": "- Party leadership is central.\n- Congress system organizes state power.\n- Development planning guides modernization.\n- Reform combines market tools with socialist orientation.",
+    "source": "Question 8",
+    "tags": ["hook", "china", "reform"]
+  },
+  {
+    "id": "q8-concept-democratic-centralism",
+    "type": "key_concept",
+    "prompt": "What is democratic centralism in the Chinese political regime answer?",
+    "answer": "Decisions are discussed within party and state structures, but after a decision is made, lower levels are expected to implement it uniformly. This helps mobilize resources, maintain policy continuity, and carry out long-term plans.",
+    "source": "Question 8",
+    "tags": ["china", "democratic-centralism", "planning"]
+  },
+  {
+    "id": "q8-concept-references",
+    "type": "key_concept",
+    "prompt": "Which Chinese political and development features can Vietnam selectively reference?",
+    "answer": "Vietnam can learn from China's long-term planning, infrastructure development, cadre training, administrative discipline, anti-corruption efforts, innovation policy, and combination of market mechanisms with socialist orientation.",
+    "source": "Question 8",
+    "tags": ["china", "vietnam", "references"]
+  },
+  {
+    "id": "q8-concept-cautions",
+    "type": "key_concept",
+    "prompt": "What cautions should Vietnam remember when referencing China?",
+    "answer": "Vietnam should avoid excessive centralization, inequality, environmental pressure, and restrictions on social feedback. The lesson is selective adaptation to Vietnam's traditions, scale, international position, and people-centered development goals.",
+    "source": "Question 8",
+    "tags": ["china", "caution", "vietnam"]
+  },
+  {
+    "id": "compare-britain",
+    "type": "comparison",
+    "prompt": "In the comparison table, what is Britain's regime type, main logic, and useful reference for Vietnam?",
+    "answer": "Regime type: constitutional monarchy and parliamentary democracy.\nMain logic: government is accountable to Parliament with strong conventions.\nUseful reference: parliamentary questioning, civil service professionalism, and legal culture.",
+    "source": "Comparison Cues",
+    "tags": ["britain", "comparison", "vietnam"]
+  },
+  {
+    "id": "compare-us",
+    "type": "comparison",
+    "prompt": "In the comparison table, what is the United States' regime type, main logic, and useful reference for Vietnam?",
+    "answer": "Regime type: federal presidential republic.\nMain logic: separate branches check one another.\nUseful reference: control of power, constitutionalism, transparency, and local responsibility.",
+    "source": "Comparison Cues",
+    "tags": ["united-states", "comparison", "vietnam"]
+  },
+  {
+    "id": "compare-china",
+    "type": "comparison",
+    "prompt": "In the comparison table, what is China's regime type, main logic, and useful reference for Vietnam?",
+    "answer": "Regime type: socialist regime led by the Communist Party.\nMain logic: Party leadership plus long-term state planning.\nUseful reference: development planning, cadre management, anti-corruption, and innovation policy.",
+    "source": "Comparison Cues",
+    "tags": ["china", "comparison", "vietnam"]
+  },
+  {
+    "id": "compare-all-three",
+    "type": "comparison",
+    "prompt": "Compare the main political logic of Britain, the United States, and China in one answer.",
+    "answer": "Britain emphasizes parliamentary accountability and constitutional conventions. The United States emphasizes separate branches, checks and balances, constitutional rights, and federalism. China emphasizes Communist Party leadership, people's congresses, democratic centralism, long-term state planning, and socialist-oriented market reform.",
+    "source": "Comparison Cues",
+    "tags": ["comparison", "britain", "united-states", "china"]
+  },
+  {
+    "id": "memory-sheet-q1-q4",
+    "type": "memory_sheet",
+    "prompt": "Recall the final memory sheet cues for Questions 1-4.",
+    "answer": "- Q1: Politics and social change: power directs change; change pressures power.\n- Q2: Manifesto: class struggle, capitalism, proletariat, communism, internationalism.\n- Q3: Marx and Engels: historical materialism, surplus value, scientific socialism.\n- Q4: Lenin: imperialism, vanguard party, October Revolution, socialist construction.",
+    "source": "Final Memory Sheet",
+    "tags": ["memory-sheet", "q1", "q2", "q3", "q4"]
+  },
+  {
+    "id": "memory-sheet-q5-q8",
+    "type": "memory_sheet",
+    "prompt": "Recall the final memory sheet cues for Questions 5-8.",
+    "answer": "- Q5: Vietnam: achievements, limitations, New Era goals, challenges, solutions.\n- Q6: Britain: monarchy symbolic, Parliament central, cabinet accountable.\n- Q7: United States: federalism, separation of powers, checks and balances.\n- Q8: China: Party leadership, people's congresses, planning, reform.",
+    "source": "Final Memory Sheet",
+    "tags": ["memory-sheet", "q5", "q6", "q7", "q8"]
+  },
+  {
+    "id": "last-hour-drill",
+    "type": "exam_drill",
+    "prompt": "What is the last-hour drill before the exam?",
+    "answer": "1. Write the eight memory hooks on a blank page.\n2. Pick two random questions.\n3. Spend 3 minutes outlining each.\n4. Spend 20 minutes writing each essay.\n5. Count words quickly: if below 250, add one example; if above 300, remove one explanation sentence.",
+    "source": "Last-Hour Drill",
+    "tags": ["exam", "drill", "timing"]
+  }
+]
