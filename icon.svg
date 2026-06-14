@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Scientific Socialism Review icon">
+  <rect width="512" height="512" rx="92" fill="#264653"/>
+  <path d="M138 140h212c28 0 50 22 50 50v214H170c-35 0-64-29-64-64V172c0-18 14-32 32-32z" fill="#fffaf0"/>
+  <path d="M152 168h194c14 0 26 12 26 26v166H172c-21 0-38-17-38-38V186c0-10 8-18 18-18z" fill="#f5f1e8"/>
+  <path d="M166 220h174M166 268h152M166 316h118" stroke="#264653" stroke-width="22" stroke-linecap="round"/>
+  <path d="M346 96l19 56 59 1-47 35 17 57-48-33-49 33 18-57-48-35 59-1 20-56z" fill="#d69f2a"/>
+  <path d="M104 342c0 34 28 62 62 62h234" fill="none" stroke="#c44536" stroke-width="24" stroke-linecap="round"/>
+</svg>
