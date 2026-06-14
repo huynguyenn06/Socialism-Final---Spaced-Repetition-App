@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#243b53">
+    <title>Scientific Socialism Review</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Politics and Social Change</p>
+          <h1>Scientific Socialism Review</h1>
+        </div>
+        <div class="top-actions">
+          <button class="icon-button" id="export-progress" type="button" title="Export progress" aria-label="Export progress">
+            <span aria-hidden="true">&#8595;</span>
+          </button>
+          <label class="icon-button file-button" title="Import progress" aria-label="Import progress">
+            <span aria-hidden="true">&#8593;</span>
+            <input id="import-progress" type="file" accept="application/json">
+          </label>
+          <button class="icon-button danger" id="reset-progress" type="button" title="Reset progress" aria-label="Reset progress">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+      </header>
+
+      <main>
+        <section class="dashboard" aria-label="Study progress">
+          <div class="stat">
+            <span class="stat-value" id="due-count">0</span>
+            <span class="stat-label">Due now</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value" id="today-count">0</span>
+            <span class="stat-label">Reviewed today</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value" id="new-count">0</span>
+            <span class="stat-label">New</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value" id="in-progress-count">0</span>
+            <span class="stat-label">In progress</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value" id="mastered-count">0</span>
+            <span class="stat-label">Mastered</span>
+          </div>
+        </section>
+
+        <section class="mode-tabs" aria-label="Study modes">
+          <button class="tab active" type="button" data-mode="due">Due</button>
+          <button class="tab" type="button" data-mode="cram">Cram</button>
+          <button class="tab" type="button" data-mode="browse">Browse</button>
+        </section>
+
+        <section class="workspace">
+          <aside class="question-map" aria-label="Question map">
+            <div class="panel-heading">
+              <h2>Exam Map</h2>
+              <p id="deck-count">Loading cards...</p>
+            </div>
+            <div class="map-grid" id="question-map"></div>
+          </aside>
+
+          <section class="review-panel" aria-live="polite">
+            <div id="review-view">
+              <div class="card-meta">
+                <span id="card-source">Source</span>
+                <span id="card-type">Type</span>
+              </div>
+              <article class="review-card">
+                <p class="prompt-label">Prompt</p>
+                <h2 id="card-prompt">Loading deck...</h2>
+                <div class="answer hidden" id="card-answer"></div>
+              </article>
+              <div class="review-actions">
+                <button class="primary" id="reveal-card" type="button">Reveal answer</button>
+                <div class="rating-grid hidden" id="rating-grid" aria-label="Rate recall">
+                  <button type="button" data-rating="again">Again</button>
+                  <button type="button" data-rating="hard">Hard</button>
+                  <button type="button" data-rating="good">Good</button>
+                  <button type="button" data-rating="easy">Easy</button>
+                </div>
+              </div>
+            </div>
+
+            <div class="empty-state hidden" id="empty-state">
+              <h2>No due cards</h2>
+              <p>Switch to Cram if you want extra practice, or browse the deck by question.</p>
+            </div>
+
+            <div class="browse-view hidden" id="browse-view">
+              <div class="browse-toolbar">
+                <label>
+                  Filter
+                  <select id="source-filter"></select>
+                </label>
+                <label>
+                  Search
+                  <input id="search-cards" type="search" placeholder="Manifesto, Lenin, Vietnam...">
+                </label>
+              </div>
+              <div id="browse-list" class="browse-list"></div>
+            </div>
+          </section>
+        </section>
+      </main>
+    </div>
+
+    <template id="browse-card-template">
+      <article class="browse-card">
+        <div>
+          <p class="browse-source"></p>
+          <h3></h3>
+        </div>
+        <p class="browse-answer"></p>
+      </article>
+    </template>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>
